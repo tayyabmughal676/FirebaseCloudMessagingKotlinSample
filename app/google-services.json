@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709542770668",
+    "firebase_url": "https://fir-webapp-527ae.firebaseio.com",
+    "project_id": "fir-webapp-527ae",
+    "storage_bucket": "fir-webapp-527ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709542770668:android:e8918e470d162b9de3f2c9",
+        "android_client_info": {
+          "package_name": "com.gaalbaat.fcmsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709542770668-g3o61klaog8t9kh05tqh6dq9cfineqp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1xHB-icQfSk7kRoKIO0HITjjP7so_RMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709542770668-g3o61klaog8t9kh05tqh6dq9cfineqp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
